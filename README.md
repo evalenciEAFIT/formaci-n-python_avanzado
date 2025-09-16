@@ -1,2 +1,2 @@
-# formaci-n-python_avanzado
+# formación Python Avanzado
 Curso de Python Avanzado
